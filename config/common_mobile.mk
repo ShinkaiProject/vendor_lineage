@@ -89,6 +89,6 @@ PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    LineageBlackTheme \
+    BlackTheme \
     ThemePicker \
     ThemesStub
