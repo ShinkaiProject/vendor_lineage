@@ -8,6 +8,9 @@ import android.os.RemoteException;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @hide
+ */
 public class AxSettingsSpoofManager {
 
     private static volatile AxSettingsSpoofManager sInstance;

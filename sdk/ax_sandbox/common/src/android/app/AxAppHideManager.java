@@ -11,6 +11,9 @@ import com.android.internal.app.IHiddenNotificationListener;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @hide
+ */
 public class AxAppHideManager {
 
     private static volatile AxAppHideManager sInstance;

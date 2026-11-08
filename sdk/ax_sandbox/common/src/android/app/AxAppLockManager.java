@@ -11,6 +11,9 @@ import com.android.internal.app.IAppSessionListener;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * @hide
+ */
 public class AxAppLockManager {
 
     public static final int LOCK_BEHAVIOR_ON_LEAVE = 0;
