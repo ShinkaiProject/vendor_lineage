@@ -295,6 +295,11 @@ PRODUCT_PACKAGES += \
     NetworkStackOverlay \
     PermissionControllerOverlay
 
+# AxSandbox & AppLocker
+PRODUCT_PACKAGES += \
+    AxSandbox \
+    AppLocker
+
 # Translations
 CUSTOM_LOCALES += \
     ast_ES \
